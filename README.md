@@ -18,3 +18,4 @@ Simply copy the Terraria3DKit folder into your source code and you're done! With
 
 ### Helpful Links:
 * [Discord Support Server](https://discord.gg/nJ5vPeA)
+* [Homepage](https://forums.terraria.org/index.php?threads/terraria3dkit-a-development-library-for-rendering-3d-objects-in-terraria.86677/)

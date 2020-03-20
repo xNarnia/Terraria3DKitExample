@@ -1,5 +1,7 @@
 Terraria3DKit Example
 
+THIS IS AN ALPHA RELEASE!
+
 This mod acts as an ExampleMod to the Terraria3DKit library made by Panini.
 Enclosed you will find the following examples:
  - ExamplePylon

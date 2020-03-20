@@ -1,3 +1,7 @@
-displayName = Terraria3DKit - Example
+displayName = Terraria3DKit V. a0.2 - Example
 author = Panini
-version = 0.1
+version = 0.2
+includePDB=true
+includeSource=true
+languageVersion=6
+homepage=https://forums.terraria.org/index.php?threads/terraria3dkit-a-development-library-for-rendering-3d-objects-in-terraria.86677/
