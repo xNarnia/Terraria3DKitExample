@@ -17,6 +17,12 @@ namespace Terraria3DKitExample.Tiles
 	// This class provides an example on how to draw a 3D model!
 	// Simply refer to the SpecialDrawing method. 
 	// Everything else can be found under tModLoader examples.
+	//
+	// Notice how this tile renders at a slower FPS when zoomed in
+	// using SpecialDraw. To learn how to draw at a higher FPS,
+	// refer to DirtBlockTile.cs and Terraria3DKitExample.cs
+	// 
+	// This runs at an in consistent FPS until other bugs are fixed.
 	public class PylonTile : ModTile
 	{
 		// Create a static model that we can load to from the Mod class.

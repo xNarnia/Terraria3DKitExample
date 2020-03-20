@@ -1,8 +1,9 @@
-# Terraria3DKit Library Example - Version 1.0
+# Terraria3DKit Library Example - Version 0.2
 A library used to perform 3D modeling and rendering within Terraria. Designed with ease of use as its highest priority.
 
 # Note:
-This library is in its first stages and you could experience performance issues! When using this library, make sure to test on multiple machines for performance profiling.
+This library is in very alpha stages and you could experience performance issues as well as major bugs! 
+<br>When using this library, make sure to test on multiple machines for performance profiling and to test using different zooms.
  
 Be mindful of your audience, not all users have super computers to render your incredible, lifelike 3D model of yourself in the game. 
 <br>Besides, we already know you're beautiful.

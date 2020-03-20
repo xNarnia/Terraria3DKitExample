@@ -1,4 +1,3 @@
 displayName = Terraria3DKit - Example
 author = Panini
 version = 0.1
-dllReferences = Terraria3DKit
