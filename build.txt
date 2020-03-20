@@ -1,6 +1,6 @@
-displayName = Terraria3DKit V. a0.2 - Example
-author = Panini
-version = 0.2
+displayName=Terraria3DKitExample Alpha 0.2.1
+author=Panini
+version=0.2.1
 includePDB=true
 includeSource=true
 languageVersion=6

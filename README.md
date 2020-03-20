@@ -1,4 +1,4 @@
-# Terraria3DKit Library Example - Version 0.2
+# Terraria3DKit Library Example - Version 0.2.1
 A library used to perform 3D modeling and rendering within Terraria. Designed with ease of use as its highest priority.
 
 # Note:
